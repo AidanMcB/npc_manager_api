@@ -4,6 +4,7 @@ env/
 
 # Environment variables
 .env
+.env.docker
 
 # Python cache files
 __pycache__/
@@ -32,3 +33,9 @@ dist/
 
 # macOS Finder files
 .DS_Store
+
+# notes
+notes.txt
+
+# Docker
+docker-logs.json
